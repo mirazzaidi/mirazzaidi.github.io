@@ -1,29 +1,16 @@
-## Portfolio
+## About
 
+<p style="font-size:14px">
+Software developer based in Stockholm, Sweden.
+Have over 7 year of hands-on product development experience.
+Expert in programming languages: C, C++, Modern C++(11/14/17), VC++, Python and Java .
+</p>
 ---
 
-### Category Name 1 
+### Companies I have worked for
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
