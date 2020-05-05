@@ -1,2 +1,1 @@
-## Developer Portfolio Landing Page Template
-
+# Miraz Zaidi Portfolio
